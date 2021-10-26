@@ -2,25 +2,10 @@
     
 ## Welcome to my profile
 
-### Hello! I'm Gros Eduard , a Front-End Developer from Romania.
+ ### Hello! My name is Gros Eduard and I'm a Front-End Developer from Romania.
 
 
-
-
-<a href="https://www.linkedin.com/in/eduard-gros-a914371ab/">
-  <img align="left" alt="Gros Eduard" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100014184853117">
-  <img align="left" alt="Gros Eduard" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/groseduard/">
-  <img align="left" alt="Gros Eduard" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<br />
-
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" width="500px" height="300px" src="https://c.tenor.com/OL1Tft1hOIIAAAAd/coding-typing.gif" />
   
 ### 👨‍💻 Languages and Tools
 
@@ -41,7 +26,13 @@
   </ul>
 
 
-
+### Contact :
+<a href="https://www.linkedin.com/in/eduard-gros-a914371ab/">
+  <img align="left" alt="Gros Eduard" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/groseduard/">
+  <img align="left" alt="Gros Eduard" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
  
 
