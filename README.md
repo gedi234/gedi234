@@ -2,11 +2,11 @@
     
 ## Welcome to my profile
 
- ### Hello! My name is Gros Eduard and I'm a Front-End Developer from Romania.
 
 
-  <img align="right" alt="GIF" width="500px" height="300px" src="https://c.tenor.com/OL1Tft1hOIIAAAAd/coding-typing.gif" />
-  
+  <img align="right" alt="GIF" width="500px" height="300px" src="https://c.tenor.com/OL1Tft1hOIIAAAAd/coding-typing.gif"/>
+    
+  ### Hello! My name is Gros Eduard and I'm a Front-End Developer from Romania.
 ### 👨‍💻 Languages and Tools
 
 <br />
@@ -17,8 +17,6 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/gedi234)](https://github.com/gedi234) 
 
 <hr>
-
-### Talking about Personal Stuffs:
 <ul>
   <li>👨🏽‍💻 I’m currently working on improving my coding </li>
   <li>✍️ I’m currently learning JQuery </li>
