@@ -37,6 +37,7 @@
 <ul>
   <li>👨🏽‍💻 I’m currently working on improving my coding </li>
   <li>✍️ I’m currently learning JQuery </li>
+    <li>🔎 I'm currently searching for a job </li>
   </ul>
 
 
