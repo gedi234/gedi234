@@ -2,7 +2,7 @@
     
 ## Welcome to my profile
 
-### Hello! I'm Gros Eduard a Front-End Developer from Romania.
+### Hello! I'm Gros Eduard , a Front-End Developer from Romania.
 
 
 
